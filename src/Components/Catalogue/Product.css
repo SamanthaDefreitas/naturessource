@@ -1,0 +1,9 @@
+.priceWrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  span:first-of-type::before {
+    content: "$";
+    font-weight: bold;
+  }

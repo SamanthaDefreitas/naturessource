@@ -1,0 +1,9 @@
+header {
+    /* In order to create its own staking context so as to avoid a z-index war we specify the isolation: isolate declaration */
+    isolation: isolate;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: #343a3f;
+    display: flex;
+  }
