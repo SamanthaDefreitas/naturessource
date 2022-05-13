@@ -1,0 +1,6 @@
+.landingPage {
+    min-height: calc(100vh - 96px);
+    background-color: #48535c;
+    color: whitesmoke;
+  }
+  
